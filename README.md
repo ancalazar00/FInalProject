@@ -1,6 +1,6 @@
 # FinalProject for Informal IT School included:
 
-Finding an application of our choice to test
+Finding an application of my choice to test
 Writing a smoke test suite in TestLink and then running the tests
 Reporting the bugs in Mantis
 Creating a test data set in an Excel file
